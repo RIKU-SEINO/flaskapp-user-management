@@ -5,5 +5,6 @@ flask-sqlalchemy
 flask-migrate
 flask-wtf
 bcrypt
+flask-bcrypt
 flask-login
 psycopg2
