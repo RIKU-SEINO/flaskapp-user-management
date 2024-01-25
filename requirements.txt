@@ -8,3 +8,4 @@ bcrypt
 flask-bcrypt
 flask-login
 psycopg2
+gunicorn
