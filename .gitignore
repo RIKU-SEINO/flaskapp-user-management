@@ -1,0 +1,13 @@
+# Virtual Environment
+venv/
+
+# Flask Migrate
+migrations/
+
+# Environment variables file
+.env
+
+# local_backup.sql
+local_backup.sql
+
+.DS_Store
