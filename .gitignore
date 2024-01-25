@@ -1,9 +1,6 @@
 # Virtual Environment
 venv/
 
-# Flask Migrate
-migrations/
-
 # Environment variables file
 .env
 
